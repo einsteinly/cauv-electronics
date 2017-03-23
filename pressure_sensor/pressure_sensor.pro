@@ -1,4 +1,4 @@
-update=2017 March 23, Thursday 11:05:41
+update=2017 March 23, Thursday 15:43:34
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,4 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/Users/einsteinly/Documents/kicad/agg-kicad/agg-kicad
-LibName31=/Users/einsteinly/Documents/Cambridge/AUV/cauv_lib/cauv_lib
+LibName31=/Users/einsteinly/Documents/Cambridge/AUV/cauv_electronics/cauv_lib/cauv_lib
