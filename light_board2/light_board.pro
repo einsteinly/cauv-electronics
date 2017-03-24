@@ -1,4 +1,4 @@
-update=Friday, 24 March 2017 'pmt' 14:47:31
+update=Friday, 24 March 2017 'pmt' 15:42:20
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../agg_lib;../cauv_lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,5 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/einsteinly/Documents/kicad/agg-kicad/agg-kicad
-LibName31=/Users/einsteinly/Documents/Cambridge/AUV/cauv_electronics/cauv_lib/cauv_lib
+LibName30=agg-kicad
+LibName31=cauv_lib

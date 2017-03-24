@@ -1,4 +1,4 @@
-update=Friday, 24 March 2017 'amt' 11:00:37
+update=Friday, 24 March 2017 'pmt' 12:01:13
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,6 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/einsteinly/Desktop/MS580314BA01-00/MS580314BA01-00
-LibName31=cauv_lib
-LibName32=/Users/yuxuanliu/Documents/kicad_lib/symbols
+LibName30=cauv_lib
