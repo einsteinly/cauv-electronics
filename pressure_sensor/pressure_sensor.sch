@@ -1,35 +1,7 @@
 EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:agg-kicad
+LIBS:pressure_sensor-rescue
 LIBS:cauv_lib
+LIBS:agg-kicad
 LIBS:pressure_sensor-cache
 EELAYER 25 0
 EELAYER END
@@ -120,7 +92,7 @@ CANTXD
 Text Label 1100 1450 0    60   ~ 0
 CANRXD
 $Comp
-L R R1
+L R-RESCUE-pressure_sensor R1
 U 1 1 58D2C257
 P 750 1200
 F 0 "R1" V 830 1200 50  0000 C CNN
@@ -131,7 +103,7 @@ F 3 "" H 750 1200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R2
+L R-RESCUE-pressure_sensor R2
 U 1 1 58D2C35C
 P 750 1900
 F 0 "R2" V 830 1900 50  0000 C CNN
@@ -142,7 +114,7 @@ F 3 "" H 750 1900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CP C1
+L CP-RESCUE-pressure_sensor C1
 U 1 1 58D2C56A
 P 2400 5700
 F 0 "C1" H 2425 5800 50  0000 L CNN
@@ -153,7 +125,7 @@ F 3 "" H 2400 5700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CP C2
+L CP-RESCUE-pressure_sensor C2
 U 1 1 58D2C828
 P 9900 1050
 F 0 "C2" H 9925 1150 50  0000 L CNN
